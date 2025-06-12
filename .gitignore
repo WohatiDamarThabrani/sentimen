@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+*.pkl
+*.pt
+*.dll
+*.lib
+*.pyd
